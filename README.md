@@ -70,10 +70,6 @@ Bachelor of Technology(IT)
 
 * Java Full Stack Development Certification
 * HTML5 Certification
-* React.js Certification
-* Spring Boot Certification
-* MySQL Database Certification
-* Google Data Analytics Professional Certificate
 
 ## Strengths
 
