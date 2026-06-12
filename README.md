@@ -64,7 +64,7 @@ Developed a Machine Learning-based system to identify and classify malicious URL
 
 ## Education
 
-Bachelor of Computer Applications (BCA)
+Bachelor of Technology(IT)
 
 ## Certifications
 
